@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: lightskyblue;
+}
+
+.header li{
+    background-color: lightgoldenrodyellow;
+    list-style: none;
+    display: inline;
+}
+
+.header li a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    display: inline-block;
+}
+
+.content{
+    background-color: aquamarine;
+    padding: 20px;
+
+}
+
+.fade-appear{
+    opacity: 0;
+}
+
+.fade-appear.fade-appear-active{ 
+    opacity: 1;
+    transition: all 1000ms ease-in-out;
+}
+

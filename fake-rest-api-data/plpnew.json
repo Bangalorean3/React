@@ -1,0 +1,28 @@
+{
+  "plp": [
+    {
+      "id": 1,
+      "name": "Galaxy S5",
+      "price": "$649.99",
+      "specification": "32GB, 2GB Ram, 1080HD, 5.1 inches, Android",
+	  "imageURL": "./images/products/moon.jpg"
+    },
+	
+	    {
+      "id": 2,
+      "name": "iPhone 6",
+      "price": "$849.99",
+      "specification": "32GB, 64Bit, 1080HD, 4.7 inches, iOS 8",
+	  "imageURL": "./images/products/moon.jpg"
+    },
+	
+	    {
+      "id": 3,
+      "name": "Lumia 1520",
+      "price": "$749.99",
+      "specification": "32GB, 4GB Ram, 1080HD, 6.3 inches, WP 8",
+	  "imageURL": "./images/products/moon.jpg"
+    }
+
+  ]
+}
